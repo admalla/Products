@@ -2,8 +2,8 @@
   "name": "products",
   "private": true,
   "version": "0.0.0",
-  "type": "module",
   "homepage": "https://admalla.github.io/products",
+  "type": "module",
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",
